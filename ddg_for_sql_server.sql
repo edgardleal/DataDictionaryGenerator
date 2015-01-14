@@ -1,5 +1,4 @@
 /*
-
 	Gerador de relatório do dicionário de dados do SQL Server
 	Desenvolvido por JOÃO FELIPE BORGES PORTELA 
 	http://www.joaofelipe.com/
